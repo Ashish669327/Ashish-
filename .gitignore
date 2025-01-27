@@ -1,0 +1,15 @@
+test-output/
+target/
+ReportNG_Reports/
+surefire/
+Failure Screenshots/
+Extent_Reports/
+testDownloadedItems/
+vueautomation/debug.log
+/debug.log
+
+node_modules
+.yarn
+git_toolbox_prj.xml
+.idea
+.editorconfig

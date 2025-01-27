@@ -1,0 +1,112 @@
+2025-01-26 15:35:25 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-26 15:35:31 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-26 15:35:44 INFO  DashboardGraphTests:132 - URL is entered in browser
+2025-01-26 15:35:50 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:36:28 INFO  DashboardGraphTests:146 - verifyBarGraphOnDashboard() test started
+2025-01-26 15:37:16 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:38:44 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:38:51 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:39:11 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:39:18 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:39:35 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:39:36 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:39:45 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (8758570181641de086dca4ae30d72464)
+2025-01-26 15:40:15 INFO  DashboardGraphTests:183 - verifyBarGraphOnDashboard() test completed
+2025-01-27 19:08:34 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 19:08:39 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 19:08:47 INFO  DashboardGraphTests:132 - URL is entered in browser
+2025-01-27 19:08:52 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (7e8ec9061aa0b4d52eb11203c0ef7dda)
+2025-01-27 20:07:34 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:07:38 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:07:41 INFO  HomeTests:100 - URL is entered in browser
+2025-01-27 20:07:41 INFO  HomeTests:112 - verifyViewAndEditWelcomeMessage() Test Started
+2025-01-27 20:08:48 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:08:50 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:08:59 INFO  HomeTests:100 - URL is entered in browser
+2025-01-27 20:08:59 INFO  HomeTests:112 - verifyViewAndEditWelcomeMessage() Test Started
+2025-01-27 20:08:59 INFO  HomeTests:121 - verifyViewAndEditWelcomeMessage() Test Completed
+2025-01-27 20:09:46 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:09:55 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:12:48 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:12:50 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:12:53 INFO  HomeTests:100 - URL is entered in browser
+2025-01-27 20:12:53 INFO  HomeTests:112 - verifyViewAndEditWelcomeMessage() Test Started
+2025-01-27 20:12:53 INFO  HomeTests:121 - verifyViewAndEditWelcomeMessage() Test Completed
+2025-01-27 20:13:17 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:13:19 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:26:30 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:26:34 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:42:54 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:42:57 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 20:57:34 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 20:57:37 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 21:01:30 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 21:01:34 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 21:02:58 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 21:03:01 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 21:19:38 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 21:19:41 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 21:19:52 INFO  HomeTests:68 - URL is entered in browser
+2025-01-27 21:19:52 INFO  HomeTests:80 - verifyViewAndEditWelcomeMessage() Test Started
+2025-01-27 21:19:57 INFO  BasePage:394 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (1b5d3393b843ccb89b9b9c3a9e8ff9a1)
+2025-01-27 21:19:57 INFO  HomeTests:89 - verifyViewAndEditWelcomeMessage() Test Completed
+2025-01-27 22:32:44 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 22:32:49 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 22:35:34 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 22:35:36 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 22:36:29 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 22:36:32 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 22:39:16 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 22:39:18 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 22:39:29 INFO  HomeTests:66 - URL is entered in browser
+2025-01-27 22:39:29 INFO  HomeTests:78 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 22:39:34 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (47577ae16e6b0dc68a3d6275cf22fb44)
+2025-01-27 22:39:37 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (47577ae16e6b0dc68a3d6275cf22fb44)
+2025-01-27 22:39:38 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (47577ae16e6b0dc68a3d6275cf22fb44)
+2025-01-27 22:39:41 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (47577ae16e6b0dc68a3d6275cf22fb44)
+2025-01-27 22:43:13 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 22:43:15 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 22:43:31 INFO  HomeTests:66 - URL is entered in browser
+2025-01-27 22:43:32 INFO  HomeTests:78 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 22:43:37 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (5c0abd9845eaa400055fef060c690efa)
+2025-01-27 22:43:54 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (5c0abd9845eaa400055fef060c690efa)
+2025-01-27 22:43:54 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (5c0abd9845eaa400055fef060c690efa)
+2025-01-27 22:43:58 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (5c0abd9845eaa400055fef060c690efa)
+2025-01-27 22:43:58 INFO  HomeTests:90 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Completed
+2025-01-27 23:05:31 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:05:34 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:05:45 INFO  HomeTests:66 - URL is entered in browser
+2025-01-27 23:05:45 INFO  HomeTests:78 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 23:05:50 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (2fcbe640d063c0b101f827c770924771)
+2025-01-27 23:05:53 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (2fcbe640d063c0b101f827c770924771)
+2025-01-27 23:05:54 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (2fcbe640d063c0b101f827c770924771)
+2025-01-27 23:05:57 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (2fcbe640d063c0b101f827c770924771)
+2025-01-27 23:05:57 INFO  HomeTests:90 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Completed
+2025-01-27 23:15:51 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:15:54 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:16:15 INFO  HomeTests:69 - URL is entered in browser
+2025-01-27 23:16:15 INFO  HomeTests:80 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 23:17:39 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:17:42 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:18:03 INFO  HomeTests:69 - URL is entered in browser
+2025-01-27 23:18:03 INFO  HomeTests:80 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 23:20:02 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:20:05 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:22:13 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:22:15 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:22:36 INFO  HomeTests:61 - URL is entered in browser
+2025-01-27 23:22:36 INFO  HomeTests:72 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 23:22:41 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (1dbaa4cb40e46ec169036ce21d3ae19a)
+2025-01-27 23:22:44 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (1dbaa4cb40e46ec169036ce21d3ae19a)
+2025-01-27 23:22:44 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (1dbaa4cb40e46ec169036ce21d3ae19a)
+2025-01-27 23:22:48 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (1dbaa4cb40e46ec169036ce21d3ae19a)
+2025-01-27 23:22:48 INFO  HomeTests:84 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Completed
+2025-01-27 23:30:48 INFO  DriverFactory:118 - Initializing driver for Chrome...
+2025-01-27 23:30:51 INFO  DriverFactory:170 - Driver for Chrome initialized.
+2025-01-27 23:31:12 INFO  HomeTests:59 - URL is entered in browser
+2025-01-27 23:31:12 INFO  HomeTests:70 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Started
+2025-01-27 23:31:18 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (36d77df2c28f99e5fb5f311192d4e947)
+2025-01-27 23:31:21 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (36d77df2c28f99e5fb5f311192d4e947)
+2025-01-27 23:31:22 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (36d77df2c28f99e5fb5f311192d4e947)
+2025-01-27 23:31:26 INFO  BasePage:314 - Click action performed successfully on element ChromeDriver: chrome on WINDOWS (36d77df2c28f99e5fb5f311192d4e947)
+2025-01-27 23:31:26 INFO  HomeTests:91 - verifySauceLabsBackpackOrderAddToCartAndRemove() Test Completed
